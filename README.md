@@ -4,8 +4,10 @@ This project compares logistic regression with a small neural network for predic
 
 ## Files
 
-- [Completed notebook](Final_Project_Option2_Tabular_NN_vs_Classical.ipynb): code, outputs, initial prediction, ethics and interpretation.
-- `images/`: confusion matrices extracted from the saved outputs.
+- [Completed notebook](Final_Project_Option2_Tabular_NN_vs_Classical.ipynb): code, outputs, prediction, ethics and interpretation.
+- [PDF report](Final_Project_Option2_Tabular_NN_vs_Classical.ipynb%20-%20Colab.pdf): exported notebook with results.
+- [Logistic Regression confusion matrix](logistic-regression.png).
+- [Neural Network confusion matrix](neural-network.png).
 
 ## Data and prediction task
 
