@@ -42,7 +42,7 @@ Matrices use actual classes as rows and predicted classes as columns, ordered `<
 
 ![Logistic Regression confusion matrix](logistic-regression.png)
 
-![Neural Network confusion matrix](images/neural-network.png)
+![Neural Network confusion matrix](neural-network.png)
 
 ## Interpretation and ethics
 
