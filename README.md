@@ -40,7 +40,7 @@ F1 improved by approximately 0.0083 and accuracy by 0.34 percentage points, calc
 
 Matrices use actual classes as rows and predicted classes as columns, ordered `<=50K`, `>50K`.
 
-![Logistic Regression confusion matrix](images/logistic-regression.png)
+![Logistic Regression confusion matrix](logistic-regression.png)
 
 ![Neural Network confusion matrix](images/neural-network.png)
 
